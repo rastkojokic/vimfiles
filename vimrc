@@ -200,5 +200,5 @@ autocmd BufRead,BufNewFile *.cljs setlocal filetype=clojure
 " Pick color scheme
 set t_Co=256
 let g:solarized_termcolors=256
-set background=dark
+set background=light
 colorscheme solarized
